@@ -1,0 +1,13 @@
+{
+"server":"TODO FIXME",
+
+"server_port":8388,
+
+"local_port":1080,
+
+"password":"TODO FIXME",
+
+"timeout":600,
+
+"method":"aes-256-cfb"
+}
