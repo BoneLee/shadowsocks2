@@ -2,6 +2,8 @@ shadowsocks-nodejs
 ==================
 **Backup of shadowsocks**
 
+**HOW TO USE**
+
 Create your own config.json file. Change "TODO FIXME" item.
 
 Run on server:
@@ -11,6 +13,7 @@ cd shadowsocks2
 bin/sserver -c config.json 
 
 Run on client:
+
 cd shadowsocks2
 
 bin/sslocal
