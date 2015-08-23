@@ -18,7 +18,7 @@ bin/sslocal
 
 Then open browser. Firefox use autoproxy plugin(Chrome use switchsharp) and set socks5 proxy, proxy server is 127.0.0.1 ,port  is 1080.
 
-**Be careful**
-The config.json must be the same on the server and client.
 Then use proxy to browse the web site what you want to surf.
 
+**Be careful:**
+The config.json must be the same on the server and client.
